@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet href="company.xsl" type="text/xsl"?>
+<companys>
+    <company ID="IT">
+        <type ID="EPAM Systems">
+            <code>100001</code>
+            <model>3310</model>
+            <price>40000000000</price>
+        </type>
+        <type ID="iTechArt Group">
+            <code>100002</code>
+            <model>T630</model>
+            <price>1500000000</price>
+        </type>
+    </company>
+    <company ID="Гостиницы">
+        <type ID="IBB-Hotel">
+            <code>100003</code>
+            <model>3*</model>
+            <price>17000000000</price>
+        </type>
+        <type ID="Добруш Гостиница">
+            <code>100004</code>
+            <model>4*</model>
+            <price>25000000000</price>
+        </type>
+    </company>
+    <company ID="Турагентства. Туристические услуги">
+        <type ID="КИМ-ТУР ООО">
+            <code>100005</code>
+            <model>Отдых, туризм, визы, ваучеры.</model>
+            <price>999000000</price>
+        </type>
+        <type ID="Авангард-торг ООО">
+            <code>100006</code>
+            <model>Туры в Египет, в Терцию, на море.</model>
+            <price>199900000</price>
+        </type>
+    </company>
+</companys>
